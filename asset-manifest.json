@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ing-electrica-unahur/static/css/main.073c9b0a.css",
+    "main.js": "/ing-electrica-unahur/static/js/main.ed2fbbe3.js",
+    "static/js/787.ea089acf.chunk.js": "/ing-electrica-unahur/static/js/787.ea089acf.chunk.js",
+    "static/media/logo.svg": "/ing-electrica-unahur/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ing-electrica-unahur/index.html",
+    "main.073c9b0a.css.map": "/ing-electrica-unahur/static/css/main.073c9b0a.css.map",
+    "main.ed2fbbe3.js.map": "/ing-electrica-unahur/static/js/main.ed2fbbe3.js.map",
+    "787.ea089acf.chunk.js.map": "/ing-electrica-unahur/static/js/787.ea089acf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ed2fbbe3.js"
+  ]
+}
